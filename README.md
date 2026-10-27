@@ -1,2 +1,2 @@
-# TAOWWEEK1
-You play as an Archivist, someone who enters unstable “Unwritten Worlds” to stabilize them before they collapse. Each world is a different genre (fantasy, sci‑fi, mystery, surreal dreamscape), but all are incomplete, so physics, characters, and rules glitch in creative ways.
+10.20.26 CODE LOG: 
+creating spell casting system. Turns out, the spellsDatabase needs to be complete otherwise the spellsDatabaseReader won't read it without bugging. Next thing to work on. COMPLETE SPELLS DATABASE
